@@ -1,2 +1,7 @@
-# hello-world
-repozitory
+#include <stdio.h>
+#include <cs50.h>
+int main(void)
+{
+    //text
+    printf("hello, world\n"); 
+}
